@@ -130,9 +130,7 @@ I turn real-world problems into **working products** — combining
       <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80"/><br/>
       <sub><b>Galaxy Brain</b></sub>
     </td>
-  </tr>
 
-  <tr>
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/><br/>
       <sub><b>Quickdraw</b></sub>
