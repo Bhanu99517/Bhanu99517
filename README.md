@@ -35,12 +35,7 @@ I turn real-world problems into **working products** — combining
 
 ---
 
-# ⭐ Activities
-
-<!-- 3D Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api?username=Bhanu99517&theme=green&shade=50&height=320&gap=14" />
-</p>
+<h1 align="center">⭐ Activities</h1>
 
 <!-- Radar Graph -->
 <p align="center">
@@ -59,9 +54,9 @@ I turn real-world problems into **working products** — combining
 
 ---
 
-# 🚀 Skills
+<h1 align="center">🚀 Skills</h1>
 
-## 🧩 Languages
+<h3 align="center">🧩 Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -69,7 +64,7 @@ I turn real-world problems into **working products** — combining
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-## 🔧 Frameworks
+<h3 align="center">🔧 Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -77,25 +72,25 @@ I turn real-world problems into **working products** — combining
   <img src="https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white" />
 </p>
 
-## 🏗 Builds
+<h3 align="center">🏗 Builds</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turbo&logoColor=white" />
 </p>
 
-## 🚀 Deployments
+<h1 align="center">🚀 Deployments</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-## 🛠 Services
+<h3 align="center">🛠 Services</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
-## 🧰 Tools
+<h3 align="center">🧰 Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
