@@ -118,71 +118,63 @@ I turn real-world problems into **working products** — combining
 
 <p align="center">
 
-  <span align="center">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="75"/><br/>
+  <!-- Box 1 -->
+  <span style="display:inline-block; text-align:center; padding:10px; margin:6px; border:1px solid #333; border-radius:10px; background:#111;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="70"/><br/>
     <sub><b>Arctic</b></sub>
   </span>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span align="center">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="75"/><br/>
+  <!-- Box 2 -->
+  <span style="display:inline-block; text-align:center; padding:10px; margin:6px; border:1px solid #333; border-radius:10px; background:#111;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="70"/><br/>
     <sub><b>Mars 2020</b></sub>
   </span>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span align="center">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="75"/><br/>
+  <!-- Box 3 -->
+  <span style="display:inline-block; text-align:center; padding:10px; margin:6px; border:1px solid #333; border-radius:10px; background:#111;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="70"/><br/>
     <sub><b>Galaxy Brain</b></sub>
   </span>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span align="center">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="75"/><br/>
+  <!-- Box 4 -->
+  <span style="display:inline-block; text-align:center; padding:10px; margin:6px; border:1px solid #333; border-radius:10px; background:#111;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="70"/><br/>
     <sub><b>Quickdraw</b></sub>
   </span>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span align="center">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="75"/><br/>
+  <!-- Box 5 -->
+  <span style="display:inline-block; text-align:center; padding:10px; margin:6px; border:1px solid #333; border-radius:10px; background:#111;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70"/><br/>
     <sub><b>Pull Shark</b></sub>
   </span>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span align="center">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="75"/><br/>
+  <!-- Box 6 -->
+  <span style="display:inline-block; text-align:center; padding:10px; margin:6px; border:1px solid #333; border-radius:10px; background:#111;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="70"/><br/>
     <sub><b>Starstruck</b></sub>
   </span>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span align="center">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="75"/><br/>
+  <!-- Box 7 -->
+  <span style="display:inline-block; text-align:center; padding:10px; margin:6px; border:1px solid #333; border-radius:10px; background:#111;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="70"/><br/>
     <sub><b>Pair X</b></sub>
   </span>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span align="center">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="75"/><br/>
+  <!-- Box 8 -->
+  <span style="display:inline-block; text-align:center; padding:10px; margin:6px; border:1px solid #333; border-radius:10px; background:#111;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70"/><br/>
     <sub><b>YOLO</b></sub>
   </span>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span align="center">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="75"/><br/>
+  <!-- Box 9 -->
+  <span style="display:inline-block; text-align:center; padding:10px; margin:6px; border:1px solid #333; border-radius:10px; background:#111;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="70"/><br/>
     <sub><b>Heart</b></sub>
   </span>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <span align="center">
-    <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="75"/><br/>
+  <!-- Box 10 -->
+  <span style="display:inline-block; text-align:center; padding:10px; margin:6px; border:1px solid #333; border-radius:10px; background:#111;">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="70"/><br/>
     <sub><b>Sourcerer</b></sub>
   </span>
 
