@@ -16,7 +16,7 @@
 
 ## 🔥 About Me
 
-I am **Bhanu Prakash**, an ECE diploma engineer passionate about  
+I am **Bhanu Prakash**, ECE diploma engineer passionate about  
 **AI-driven automation, Cyber-Physical Systems, face recognition, embedded systems,  
 and full-stack mobile + web applications.**
 
