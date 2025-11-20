@@ -39,7 +39,7 @@ I turn real-world problems into **working products** — combining
 
 <!-- 3D Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-3d-contrib.vercel.app/api?username=Bhanu99517&theme=green&shade=50&height=300&gap=12" />
+  <img src="https://github-readme-3d-contrib.vercel.app/api?username=Bhanu99517&theme=green&shade=50&height=320&gap=14" />
 </p>
 
 <!-- Radar Graph -->
