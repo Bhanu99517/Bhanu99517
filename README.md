@@ -77,7 +77,7 @@ I turn real-world problems into **working products** — combining
   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turbo&logoColor=white" />
 </p>
 
-<h1 align="center">🚀 Deployments</h1>
+<h3 align="center">🚀 Deployments</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
