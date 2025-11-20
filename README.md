@@ -116,95 +116,56 @@ I turn real-world problems into **working products** — combining
 
 ## 🏆 GitHub Achievements
 
-<div align="center" style="background:#0d1117;padding:24px;border-radius:16px;border:1px solid #30363d;">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80"/><br/>
+      <sub><b>Arctic Code Vault</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="80"/><br/>
+      <sub><b>Mars 2020</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80"/><br/>
+      <sub><b>Galaxy Brain</b></sub>
+    </td>
+  </tr>
 
-  <table>
-    <tr>
-      <td align="center" style="padding:12px;">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png"
-             width="60"
-             title="Arctic Code Vault Contributor" />
-        <br/>
-        <sub><b>Arctic Code Vault</b></sub>
-      </td>
-      <td align="center" style="padding:12px;">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png"
-             width="60"
-             title="Mars 2020 Contributor" />
-        <br/>
-        <sub><b>Mars 2020</b></sub>
-      </td>
-      <td align="center" style="padding:12px;">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"
-             width="60"
-             title="Galaxy Brain" />
-        <br/>
-        <sub><b>Galaxy Brain</b></sub>
-      </td>
-    </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/><br/>
+      <sub><b>Quickdraw</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/><br/>
+      <sub><b>Pull Shark</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80"/><br/>
+      <sub><b>Starstruck</b></sub>
+    </td>
+  </tr>
 
-    <tr>
-      <td align="center" style="padding:12px;">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png"
-             width="60"
-             title="Quickdraw (Fast Responder)" />
-        <br/>
-        <sub><b>Quickdraw</b></sub>
-      </td>
-      <td align="center" style="padding:12px;">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"
-             width="60"
-             title="Pull Shark (PRs Merged)" />
-        <br/>
-        <sub><b>Pull Shark</b></sub>
-      </td>
-      <td align="center" style="padding:12px;">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"
-             width="60"
-             title="Starstruck (Popular Repo)" />
-        <br/>
-        <sub><b>Starstruck</b></sub>
-      </td>
-    </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80"/><br/>
+      <sub><b>Pair Extraordinaire</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"/><br/>
+      <sub><b>YOLO</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="80"/><br/>
+      <sub><b>Heart on Sleeve</b></sub>
+    </td>
+  </tr>
 
-    <tr>
-      <td align="center" style="padding:12px;">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"
-             width="60"
-             title="Pair Extraordinaire (Code Reviews)" />
-        <br/>
-        <sub><b>Pair Extraordinaire</b></sub>
-      </td>
-      <td align="center" style="padding:12px;">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"
-             width="60"
-             title="YOLO (Direct to Main)" />
-        <br/>
-        <sub><b>YOLO</b></sub>
-      </td>
-      <td align="center" style="padding:12px;">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png"
-             width="60"
-             title="Heart on Your Sleeve (Reactions)" />
-        <br/>
-        <sub><b>Heart on Sleeve</b></sub>
-      </td>
-    </tr>
-
-    <tr>
-      <td align="center" style="padding:12px;">
-        <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png"
-             width="60"
-             title="Open Sourcerer (Open Source Hero)" />
-        <br/>
-        <sub><b>Open Sourcerer</b></sub>
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-  </table>
-
-  <br/>
-  <sub>💡 Hover over each badge to see its title.</sub>
-
-</div>
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="80"/><br/>
+      <sub><b>Open Sourcerer</b></sub>
+    </td>
+  </tr>
+</table>
