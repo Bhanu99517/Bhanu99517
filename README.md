@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Bhanu Prakash
 
 <!-- ===========================
       🌟 BHANU PRAKASH – GitHub Profile
@@ -8,7 +8,6 @@
 <h3 align="center">🚀 Electronics & Communication Engineer (ECE)  
 <br>AI | Full-Stack | Embedded Systems</h3>
 
-# Hey there 👋 I'm Bhanu Prakash
 
 ![Version](https://img.shields.io/badge/version-20.11.2025-blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhanu99517&color=red&style=flat&label=Profile+views)
