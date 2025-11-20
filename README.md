@@ -6,7 +6,7 @@
 
 <h1 align="center">✨ Bhanu Prakash ✨</h1>
 <h3 align="center">🚀 Electronics & Communication Engineer (ECE)  
-<br>Cyber-Physical Systems | AI | Full-Stack | Embedded Systems</h3>
+<br>AI | Full-Stack | Embedded Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bhanu99517&color=blue&style=for-the-badge" />
