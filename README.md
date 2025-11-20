@@ -26,39 +26,86 @@ I turn real-world problems into **working products** — combining
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🚀 **Frontend**
-- React.js / Next.js / TypeScript
-- Tailwind CSS (Glass / Neumorphism / Dashboard UI)
-- FlutterFlow  
-- HTML, CSS, JS  
-
-### ⚙️ **Backend**
-- Node.js (Express)
-- MongoDB Atlas  
-- Firebase Firestore + Auth  
-- REST API, JWT Systems  
-
-### 🤖 **AI + ML**
-- Google AI Studio (Gemini)
-- YOLO + 5 Point Landmark Face Detection  
-- Face Embedding Verification  
-- Realtime camera pipelines  
-
-### 🔧 **Embedded / Electronics**
-- ESP32, Arduino  
-- MaixCAM AI Vision  
-- Verilog HDL (FSMs, counters, PLDs, CPLD/FPGA basics)
-- GSM/GPRS/EDGE systems  
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhanu99517&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu99517&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# ⭐ Activities
+
+<!-- 3D Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-3d-contrib.vercel.app/api?username=Bhanu99517&theme=green&shade=50&height=300&gap=12" />
+</p>
+
+<!-- Radar Graph -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu99517&theme=github_dark" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhanu99517&theme=github_dark" />
+</p>
+
+<!-- Commits by Time -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhanu99517&theme=github_dark&utcOffset=8" />
+</p>
+
+<!-- Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhanu99517&theme=github_dark" />
+</p>
+
+---
+
+# 🚀 Skills
+
+## 🧩 Languages
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+## 🔧 Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white" />
+</p>
+
+## 🏗 Builds
+<p>
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turbo&logoColor=white" />
+</p>
+
+## 🚀 Deployments
+<p>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+## 🛠 Services
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+## 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge&logo=chromatic&logoColor=white" />
 </p>
 
 ---
