@@ -116,6 +116,42 @@ I turn real-world problems into **working products** — combining
 
 # 🏆 GitHub Achievements
 
+<p align="center">
+  <!-- Arctic Code Vault Contributor -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90" title="Arctic Code Vault Contributor" />
+  
+  <!-- Mars 2020 -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="90" title="Mars 2020 Contributor" />
+  
+  <!-- Galaxy Brain -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="90" title="Galaxy Brain" />
+  
+  <!-- Quickdraw -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" title="Quickdraw (Quick Responder)" />
+  
+  <!-- Pull Shark -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" title="Pull Shark (PR Master)" />
+  
+  <!-- Starstruck -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90" title="Starstruck (Repo got 16+ stars)" />
+  
+  <!-- Pair Extraordinaire -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" title="Pair Extraordinaire (Reviewed PRs)" />
+  
+  <!-- YOLO -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" title="YOLO (Direct commit to main)" />
+
+  <!-- Heart On Your Sleeve -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="90" title="Heart on your sleeve (Reacting to comments)" />
+
+  <!-- Open Sourcerer -->
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="90" title="Open Sourcerer (Multiple major contributions)" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
 <table align="center">
   <tr>
     <td align="center">
