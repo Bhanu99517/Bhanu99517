@@ -156,7 +156,7 @@ I turn real-world problems into **working products** — combining
   <tr>
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80"/><br/>
-      <sub><b>Arctic Code Vault</b></sub>
+      <sub><b>Arctic Vault</b></sub>
     </td>
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="80"/><br/>
@@ -166,9 +166,6 @@ I turn real-world problems into **working products** — combining
       <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80"/><br/>
       <sub><b>Galaxy Brain</b></sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/><br/>
       <sub><b>Quickdraw</b></sub>
@@ -177,13 +174,13 @@ I turn real-world problems into **working products** — combining
       <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/><br/>
       <sub><b>Pull Shark</b></sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80"/><br/>
       <sub><b>Starstruck</b></sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80"/><br/>
       <sub><b>Pair Extraordinaire</b></sub>
@@ -194,11 +191,8 @@ I turn real-world problems into **working products** — combining
     </td>
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="80"/><br/>
-      <sub><b>Heart on Sleeve</b></sub>
+      <sub><b>Heart On Sleeve</b></sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="80"/><br/>
       <sub><b>Open Sourcerer</b></sub>
