@@ -30,6 +30,7 @@ I turn real-world problems into **working products** — combining
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bhanu99517&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
 
 ## 📊 GitHub Analytics
 
@@ -113,9 +114,6 @@ I turn real-world problems into **working products** — combining
 
 ---
 
-## ✨ Inspiration  
-> **“Create what others can only imagine.”**  
-> **“AI + Electronics = Future Engineer.”**
 
 <p align="center">
     Thanks for stopping by! Happy coding! ✨<br><br>
