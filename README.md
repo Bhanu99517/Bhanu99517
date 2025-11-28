@@ -112,3 +112,8 @@ I turn real-world problems into **working products** — combining
 ## ✨ Inspiration  
 > **“Create what others can only imagine.”**  
 > **“AI + Electronics = Future Engineer.”**
+
+<p align="center">
+    Thanks for stopping by! Happy coding! ✨<br><br>
+    <img src="https://github.com/user-attachments/assets/93252d5c-353f-49ae-ba7e-b2bf6e27065c" width="300"/>
+</p>
