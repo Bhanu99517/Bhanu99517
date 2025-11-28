@@ -27,6 +27,10 @@ I turn real-world problems into **working products** — combining
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bhanu99517&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 ## 📊 GitHub Analytics
 
 <p align="center">
