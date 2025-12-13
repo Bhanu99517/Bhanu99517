@@ -4,7 +4,7 @@
       🌟 BHANU PRAKASH – GitHub Profile
      =========================== -->
 <h1 align="center">✨ Bhanu Prakash ✨</h1>
-src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">🚀 Electronics & Communication Engineer (ECE)  
 <br>AI | Full-Stack | Embedded Systems</h3>
 
