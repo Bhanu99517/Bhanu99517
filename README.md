@@ -1,10 +1,10 @@
-## Hi there 👋 I'm 
-
+### Hi there 👋 I'm 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- ===========================
       🌟 BHANU PRAKASH – GitHub Profile
      =========================== -->
-
 <h1 align="center">✨ Bhanu Prakash ✨</h1>
+
 <h3 align="center">🚀 Electronics & Communication Engineer (ECE)  
 <br>AI | Full-Stack | Embedded Systems</h3>
 
@@ -17,7 +17,8 @@
 
 ---
 
-## 🔥 About Me
+### 🔥 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 I am **Bhanu Prakash**, ECE diploma engineer passionate about  
 **AI-driven automation, embedded systems, and full-stack mobile + web applications.**
@@ -27,22 +28,27 @@ I turn real-world problems into **working products** — combining
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhanu99517&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://github-trophies.vercel.app/?username=Bhanu99517" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=Bhanu99517&theme=radical&margin-w=4&margin-h=4">
+</a>
 
 ---
 
-## 📊 GitHub Analytics
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Analytics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhanu99517&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu99517&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhanu99517&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu99517&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
 ---
 
 <h1 align="center">⭐ Activities</h1>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Radar Graph -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu99517&theme=github_dark" />
@@ -60,8 +66,8 @@ I turn real-world problems into **working products** — combining
 
 ---
 
-<h1 align="center">🚀 Skills</h1>
-
+### <p align="center">🚀 Skills</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">🧩 Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -106,7 +112,8 @@ I turn real-world problems into **working products** — combining
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 📧 **Email:** bhanu99517@gmail.com  
 🌍 **Portfolio:** Coming Soon  
@@ -114,8 +121,9 @@ I turn real-world problems into **working products** — combining
 
 ---
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
     Thanks for stopping by! Happy coding! ✨<br><br>
     <img src="https://github.com/user-attachments/assets/93252d5c-353f-49ae-ba7e-b2bf6e27065c" width="300"/>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
