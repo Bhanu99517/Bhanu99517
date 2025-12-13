@@ -8,12 +8,13 @@
 <h3 align="center">🚀 Electronics & Communication Engineer (ECE)  
 <br>AI | Full-Stack | Embedded Systems</h3>
 
-
+<h3 align="center">
+      
 ![Version](https://img.shields.io/badge/version-20.11.2025-blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhanu99517&color=red&style=flat&label=Profile+views)
 ![GitHub Followers](https://img.shields.io/github/followers/Bhanu99517?label=Follow&style=flat&color=white)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
-
+</h3>
 
 ---
 
@@ -66,7 +67,7 @@ I turn real-world problems into **working products** — combining
 
 ---
 
-### <p align="center">🚀 Skills</p>
+<h1 align="center">🚀 Skills</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">🧩 Languages</h3>
 <p align="center">
