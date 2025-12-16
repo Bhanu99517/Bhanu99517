@@ -117,7 +117,7 @@ I turn real-world problems into **working products** — combining
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 📧 **Email:** bhanu99517@gmail.com  
-🌍 **Portfolio:** Coming Soon  
+🌍 **Portfolio:** [Click Hear](https://bhanutechlab-portfolio.vercel.app/)  
 💼 **LinkedIn / Portfolio:** will be added soon
 
 ---
