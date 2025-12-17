@@ -21,6 +21,10 @@
 ### 🔥 About Me
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6449477" style='border:none;'></iframe>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/bhanu99517.png" alt="Your Image Badge" />
+
 I am **Bhanu Prakash**, ECE diploma engineer passionate about  
 **AI-driven automation, embedded systems, and full-stack mobile + web applications.**
 
