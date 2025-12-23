@@ -23,7 +23,6 @@
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/bhanu99517.png" alt="Your Image Badge" />
 
 I am **Bhanu Prakash**, ECE diploma engineer passionate about  
 **AI-driven automation, embedded systems, and full-stack mobile + web applications.**
