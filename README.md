@@ -30,6 +30,13 @@ I am **Bhanu Prakash**, ECE diploma engineer passionate about
 I turn real-world problems into **working products** — combining  
 **electronics + AI + software.**
 
+## Tryhackme and Hackthebox
+<a href="https://tryhackme.com/p/GBhanuPrakash">
+<img src="https://tryhackme-badges.s3.amazonaws.com/GBhanuPrakash.png?v=2" alt="Your Image Badge" width="198"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://app.hackthebox.com/profile/606919" target="_blank"/>
+<img src="https://www.hackthebox.eu/badge/image/606919" alt="Hack The Box Profile" width="210"/></a>
+
 ---
 
 ### 🏆 GitHub Trophies
