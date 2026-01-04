@@ -32,12 +32,10 @@ I turn real-world problems into **working products** — combining
 
 ---
 
-## Tryhackme and Hackthebox
+## Tryhackme 
 <a href="https://tryhackme.com/p/GBhanuPrakash">
 <img src="https://tryhackme-badges.s3.amazonaws.com/GBhanuPrakash.png?v=2" alt="Your Image Badge" width="198"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://app.hackthebox.com/profile/000000" target="_blank"/>
-<img src="https://www.hackthebox.eu/badge/image/000000" alt="Hack The Box Profile" width="210"/></a>
 
 ---
 
