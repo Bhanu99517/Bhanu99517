@@ -48,32 +48,14 @@ I turn real-world problems into **working products** — combining
 
 ---
 
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Analytics
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Bhanu99517&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu99517&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</p>
 
----
 
-<h1 align="center">⭐ Activities</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Radar Graph -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu99517&theme=github_dark" />
-</p>
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhanu99517&theme=github_dark" />
-</p>
 
-<!-- Commits by Time -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhanu99517&theme=github_dark&utcOffset=8" />
-</p>
+
+
+
 
 ---
 
