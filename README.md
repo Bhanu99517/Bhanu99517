@@ -38,28 +38,16 @@ coffee     : ████████████ 100%
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 </h3>
 
----
-
-### 🔥 About Me
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-I am **Bhanu Prakash**, ECE diploma engineer passionate about  
-**AI-driven automation, embedded systems, and full-stack mobile + web applications.**
-
-I turn real-world problems into **working products** — combining  
-**electronics + AI + software.**
 
 ---
 
 ## Tryhackme 
-<a href="https://tryhackme.com/p/GBhanuPrakash">
-<img src="https://tryhackme-badges.s3.amazonaws.com/GBhanuPrakash.png?v=2" alt="Your Image Badge" width="198"/></a>
-&nbsp;&nbsp;&nbsp;
+<div align="center">
 
----
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/GBhanuPrakash.png)](https://tryhackme.com/p/GBhanuPrakash)
+
+</div>
+
 
 ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
