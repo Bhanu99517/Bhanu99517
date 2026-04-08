@@ -1,9 +1,12 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="coding gif"/>
 
 ## `> whoami`
+
+<table>
+<tr>
+<td>
 
 ```yaml
 name       : Bhanu Prakash
@@ -15,13 +18,19 @@ status     : Always building something new...
 coffee     : ████████████ 100%
 ```
 
+</td>
+<td>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="coding gif"/>
+</td>
+</tr>
+</table>
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;AI+%7C+Full-Stack+%7C+Embedded+Systems;Turning+Ideas+into+Working+Products;Building+at+the+edge+of+hardware+%2B+AI" alt="Typing SVG" />
-
 <h3 align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;AI+%7C+Full-Stack+%7C+Embedded+Systems;Turning+Ideas+into+Working+Products;Building+at+the+edge+of+hardware+%2B+AI" alt="Typing SVG" />
       
 ![Version](https://img.shields.io/badge/version-20.11.2025-blue)
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhanu99517&color=red&style=flat&label=Profile+views)
