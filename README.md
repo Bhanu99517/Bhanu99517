@@ -73,24 +73,23 @@ coffee     : ████████████ 100%
 
 <h1 align="center">⭐ Activities</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <a href="https://github.com/Bhanu99517">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanu99517&theme=tokyo-night&hide_border=true" width="86%" alt="GitHub Activity Graph"/>
+  </a>
+</div>
+
 <!-- Radar Graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu99517&theme=github_dark" />
+  <img width="86%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhanu99517&theme=github_dark" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhanu99517&theme=github_dark" />
+  <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhanu99517&theme=github_dark" />
+  <img width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhanu99517&theme=github_dark&utcOffset=8" />
 </p>
-
-<!-- Commits by Time -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhanu99517&theme=github_dark&utcOffset=8" />
-</p>
-
-
-
-
 
 ---
 
