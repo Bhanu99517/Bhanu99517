@@ -65,8 +65,8 @@ coffee     : ████████████ 100%
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Bhanu99517&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu99517&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=Bhanu99517&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanu99517&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
 ---
