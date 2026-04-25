@@ -144,7 +144,7 @@ coffee     : ████████████ 100%
 
 📧 **Email:** bhanu99517@gmail.com  
 🌍 **Portfolio:** [Click Hear](https://bhanutechlab-portfolio.vercel.app/)  
-💼 **LinkedIn / Portfolio:** will be added soon
+💼 **LinkedIn:** [Click Hear](https://www.linkedin.com/in/g-bhanu-prakash-18a476340/) 
 
 ---
 
