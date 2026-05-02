@@ -151,6 +151,6 @@ coffee     : ████████████ 100%
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
     Thanks for stopping by! Happy coding! ✨<br><br>
-    <img src="https://github.com/user-attachments/assets/93252d5c-353f-49ae-ba7e-b2bf6e27065c" width="300"/>
+    <img src="./assets/thankyou.gif" width="300"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
