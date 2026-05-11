@@ -143,8 +143,8 @@ coffee     : ████████████ 100%
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 📧 **Email:** bhanu99517@gmail.com  
-🌍 **Portfolio:** [Click Hear](https://bhanutechlab-portfolio.vercel.app/)  
-💼 **LinkedIn:** [Click Hear](https://www.linkedin.com/in/g-bhanu-prakash-18a476340/) 
+🌍 **Portfolio:** [bhanutechlab](https://bhanutechlab.vercel.app/)  
+💼 **LinkedIn:** [bhanu99517](https://www.linkedin.com/in/bhanu99517/) 
 
 ---
 
